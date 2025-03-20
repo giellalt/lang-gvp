@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=gvp
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-gvp
+Description: Finite-state language processing tools for Pará Gavião
+URL: https://giellalt.uit.no/index.html
+Version: @VERSION@
