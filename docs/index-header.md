@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-gvp)](https://github.com/giellalt/lang-gvp/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-gvp)](https://github.com/giellalt/lang-gvp/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-gvp?label=CI)](https://builds.giellalt.org/pipelines/lang-gvp/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/para1315)
 
 This page documents the work on the **Pará Gavião language model**. 
 
